@@ -16,6 +16,10 @@ and it can be easily cooked and we can try n number of **recipes**.
     2. get some snacks
 4. finish homework
 
+*******
+
+# getting groceries
+
 * Go to the store
 * Buy Food
   * Rice
