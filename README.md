@@ -28,3 +28,13 @@ and it can be easily cooked and we can try n number of **recipes**.
 * Come home     
 
 link to aboutme is [AboutMe](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/AboutMe.md)
+
+******
+# places to be visited in Telangana
+
+|| Location  |      Hours    |  Amount |
+|:----------|:-------------:|--------:|
+|   NY |   3hrs        |  100$   |   
+|   NJ |   3hrs        |  100$   |   
+|  LA |   3hrs        |  100$   |
+| florida|    3hrs        | 100$    |
