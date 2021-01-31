@@ -30,9 +30,9 @@ and it can be easily cooked and we can try n number of **recipes**.
 link to aboutme is [AboutMe](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/AboutMe.md)
 
 ******
-# places to be visited in Telangana
+# places to be visited in America
 
-|| Location  |      Hours    |  Amount |
+| Location  |      Hours    |  Amount |
 |:----------|:-------------:|--------:|
 |   NY |   3hrs        |  100$   |   
 |   NJ |   3hrs        |  100$   |   
