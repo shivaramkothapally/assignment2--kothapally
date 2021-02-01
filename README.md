@@ -38,3 +38,8 @@ link to aboutme is [AboutMe](https://github.com/shivaramkothapally/assignment2--
 |   NJ |   3hrs        |  100$   |   
 |  LA |   3hrs        |  100$   |
 | florida|    3hrs        | 100$    |
+
+********
+# pithy quotes
+> it always seems impossible until its done. * NELSON MANDELA
+> strive not be a success, but rather to be a value. * ALBERT EINSTEIN
