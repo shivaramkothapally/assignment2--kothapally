@@ -46,3 +46,34 @@ link to aboutme is [AboutMe](https://github.com/shivaramkothapally/assignment2--
                               
 > strive not be a success, but rather to be a value.
                                 * ALBERT EINSTEIN*
+
+*******
+
+# Verilog
+
+> Verilog, standardized as IEEE 1364, is a hardware description language (HDL) used to model electronic systems
+>  It is most commonly used in the design and verification of digital circuits at the register-transfer level of abstraction.
+ link to verilog[verilog](https://en.wikipedia.org/wiki/Verilog)
+
+ A simple code of two `flip-flops` follows:
+ ```
+ module toplevel(clock,reset);
+  input clock;
+  input reset;
+
+  reg flop1;
+  reg flop2;
+
+  always @ (posedge reset or posedge clock)
+    if (reset)
+      begin
+        flop1 <= 0;
+        flop2 <= 1;
+      end
+    else
+      begin
+        flop1 <= flop2;
+        flop2 <= flop1;
+      end
+endmodule
+```
