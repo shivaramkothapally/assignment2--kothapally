@@ -79,5 +79,5 @@ endmodule
 ```
 link to code[codelink](https://en.wikipedia.org/wiki/Verilog)
 ![pic1](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/images/pic%201%20asign.jpg)
-![pic2](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/images/pic%201%20asign.jpg
-![pic3](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/images/pic%203%20assign.jpg))
+![pic2](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/images/pic%202%20asign.jpg)
+![pic3](https://github.com/shivaramkothapally/assignment2--kothapally/blob/main/images/pic%203%20assign.jpg)
