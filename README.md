@@ -41,5 +41,7 @@ link to aboutme is [AboutMe](https://github.com/shivaramkothapally/assignment2--
 
 ********
 # pithy quotes
-> it always seems impossible until its done. * NELSON MANDELA
-> strive not be a success, but rather to be a value. * ALBERT EINSTEIN
+> it always seems impossible until its done. 
+                              * NELSON MANDELA
+> strive not be a success, but rather to be a value.
+                                * ALBERT EINSTEIN
